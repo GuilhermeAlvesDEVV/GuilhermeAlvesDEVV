@@ -1,4 +1,4 @@
-### Olá, Nilton Barros aqui! 👨‍💻
+### Olá, Guilherme Alves aqui! 👨‍💻
 
 Sou estudante de desenvolvimento Kotlin para Android e apaixonado por tecnologia.
 ### 👀 Estou a procura de uma vaga no momento 👀
@@ -11,6 +11,4 @@ Sou estudante de desenvolvimento Kotlin para Android e apaixonado por tecnologia
 - Firebase, SQLite e SQL
 - Scrum
 
-### 📫 Entre em contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niltonbarros2008/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prof.niltonbarros/)
+
